@@ -15,7 +15,7 @@
 
 ## Modo de preparo
 
-x
+x,k
 y
 z
 
